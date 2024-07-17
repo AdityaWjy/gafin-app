@@ -1,0 +1,47 @@
+.btn-custom {
+  background-color: #4444bb;
+  border: 2px solid #4444bb;
+  border-radius: 8px;
+  font-weight: 500;
+  color: white;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  padding-left: 23px;
+  padding-right: 23px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.btn-custom:hover {
+  background-color: #ffffff;
+  color: #000000;
+  transition-delay: 0.1s;
+}
+
+.btn-custom-mobile {
+  background-color: #4444bb;
+  border: 2px solid #4444bb;
+  border-radius: 8px;
+  font-weight: 500;
+  color: white;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 23px;
+  padding-right: 23px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.btn-custom-mobile:hover {
+  background-color: #ffffff;
+  color: #000000;
+  transition-delay: 0.1s;
+}
+
+.blueOcean {
+  color: #4444bb;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}

@@ -1,5 +1,19 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <!-- navbar start -->
+    <navbar />
+    <!-- navbar end -->
   </div>
 </template>
+
+<script>
+// @ is an alias to /src
+import navbar from '@/components/navbar.vue'
+
+export default {
+  name: 'HomeView',
+  components: {
+    navbar
+  }
+}
+</script>
