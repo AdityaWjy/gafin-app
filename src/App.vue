@@ -4,7 +4,7 @@
 
     <a
       class="whatsapp-logo"
-      href="https://wa.me/+6285779642079"
+      href="https://wa.me/+6285179642079"
       target="_blank"
     >
       <img src="./assets/images/Social/whatsapp.png" alt="WhatsApp Logo" />
