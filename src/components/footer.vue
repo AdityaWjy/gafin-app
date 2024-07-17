@@ -152,9 +152,9 @@
         class="text-center p-4"
         style="background-color: rgba(0, 0, 0, 0.05)"
       >
-        © 2021 Copyright:
+        © 2024 Copyright:
         <a class="text-reset fw-bold" href="https://mdbootstrap.com/"
-          >MDBootstrap.com</a
+          >Gafin Shoes</a
         >
       </div>
       <!-- Copyright -->
