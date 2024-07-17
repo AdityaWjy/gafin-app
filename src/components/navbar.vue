@@ -26,7 +26,7 @@
                     to="/"
                     class="nav-link fw-medium"
                     aria-current="page"
-                    >Beranda</router-link
+                    >Home</router-link
                   >
                 </li>
                 <li class="nav-item">
