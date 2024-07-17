@@ -47,7 +47,7 @@
                   />
                 </a>
 
-                <a href="https://wa.me/+6285779642079" target="_blank">
+                <a href="https://wa.me/+6285179642079" target="_blank">
                   <img
                     src="../assets/images/Social/whatsapp.png"
                     alt="Whatsapp"
@@ -144,7 +144,7 @@
               </a>
 
               <a
-                href="https://wa.me/+6285779642079"
+                href="https://wa.me/+6285179642079"
                 target="_blank"
                 class="block text-decoration-none text-white d-xl-flex align-items-center justify-align-center gap-2"
               >
@@ -154,7 +154,7 @@
                   class="mb-2"
                   width="25"
                 />
-                <p class="text-center text-xl-start pt-1">+62 857-7964-2079</p>
+                <p class="text-center text-xl-start pt-1">+62 851-7964-2079</p>
               </a>
             </div>
             <!-- Grid column -->
@@ -170,8 +170,8 @@
         style="background-color: rgba(0, 0, 0, 0.05)"
       >
         © 2024 Copyright:
-        <a class="text-reset fw-bold" href="https://wa.me/+6285779642079"
-          >Gafin Shoes</a
+        <a class="text-reset fw-bold" href="https://wa.me/+6285179642079"
+          >Gafin Lab</a
         >
       </div>
       <!-- Copyright -->
