@@ -6,9 +6,12 @@
 
     <iframe
       class="full-screen-iframe"
-      src="http://www.youtube.com/embed/oHg5SJYRHA0?autoplay=1"
-      autoplay
+      src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=eVG8xS6G9RyMemjG&amp;controls=0"
+      title="YouTube video player"
       frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      autoplay
       allowfullscreen
     ></iframe>
   </div>
