@@ -1,6 +1,14 @@
 <template>
   <div id="app">
     <router-view />
+
+    <a
+      class="whatsapp-logo"
+      href="https://wa.me/+6285779642079"
+      target="_blank"
+    >
+      <img src="./assets/images/Social/whatsapp.png" alt="WhatsApp Logo" />
+    </a>
   </div>
 </template>
 
@@ -19,6 +27,13 @@
 html,
 body {
   font-family: 'Poppins', sans-serif;
+}
+
+.whatsapp-logo {
+  position: fixed;
+  bottom: 40px;
+  right: 20px;
+  cursor: pointer;
 }
 
 /* nav a.router-link-exact-active {

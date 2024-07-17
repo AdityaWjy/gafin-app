@@ -25,17 +25,34 @@
               <div
                 class="d-flex justify-content-center justify-content-xl-start"
               >
-                <img
-                  src="../assets/images/Social/shopee.png"
-                  alt=""
-                  class="me-4"
-                />
-                <img
-                  src="../assets/images/Social/maps.png"
-                  alt=""
-                  class="me-4"
-                />
-                <img src="../assets/images/Social/whatsapp.png" alt="" />
+                <a
+                  href="https://youtu.be/dQw4w9WgXcQ?si=GQzq-ADwD2Efqz9q"
+                  target="_blank"
+                >
+                  <img
+                    src="../assets/images/Social/shopee.png"
+                    alt=""
+                    class="me-4"
+                  />
+                </a>
+
+                <a
+                  href="https://maps.app.goo.gl/sjd1hZLnccvGJ5u27"
+                  target="_blank"
+                >
+                  <img
+                    src="../assets/images/Social/maps.png"
+                    alt=""
+                    class="me-4"
+                  />
+                </a>
+
+                <a href="https://wa.me/+6285779642079" target="_blank">
+                  <img
+                    src="../assets/images/Social/whatsapp.png"
+                    alt="Whatsapp"
+                  />
+                </a>
               </div>
             </div>
             <!-- Grid column -->
