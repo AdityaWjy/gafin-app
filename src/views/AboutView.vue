@@ -1,8 +1,16 @@
 <template>
-  <div class="about">
+  <div class="about container">
     <!-- navbar start -->
     <navbar />
     <!-- navbar end -->
+
+    <iframe
+      class="full-screen-iframe"
+      src="http://www.youtube.com/embed/oHg5SJYRHA0?autoplay=1"
+      autoplay
+      frameborder="0"
+      allowfullscreen
+    ></iframe>
   </div>
 </template>
 
@@ -17,3 +25,10 @@ export default {
   }
 }
 </script>
+
+<style>
+.full-screen-iframe {
+  width: 100%;
+  height: 100vh; /* 100 viewport height */
+}
+</style>
