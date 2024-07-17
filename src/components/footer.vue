@@ -17,7 +17,7 @@
                 <img :src="logoSrc" alt="Gafin Labs" class="w-75" />
               </router-link>
               <p>
-                Gafin Shoes adalah toko cuci sepatu yang memberikan pelayanan
+                Gafin Shoes merupakan toko cuci sepatu yang memberikan pelayanan
                 terbaik untuk Anda.
               </p>
 
