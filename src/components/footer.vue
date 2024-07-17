@@ -153,7 +153,7 @@
         style="background-color: rgba(0, 0, 0, 0.05)"
       >
         © 2024 Copyright:
-        <a class="text-reset fw-bold" href="https://mdbootstrap.com/"
+        <a class="text-reset fw-bold" href="https://wa.me/+6285779642079"
           >Gafin Shoes</a
         >
       </div>
