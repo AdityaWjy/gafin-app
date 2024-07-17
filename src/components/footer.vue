@@ -108,7 +108,7 @@
               style="margin-top: 40px"
             >
               <!-- Links -->
-              <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
+              <h6 class="text-uppercase fw-semibold mb-4">Contact</h6>
 
               <a
                 href="https://maps.app.goo.gl/sjd1hZLnccvGJ5u27"
