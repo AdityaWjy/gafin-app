@@ -1,6 +1,6 @@
 <template>
   <div class="popular-service">
-    <div class="container text-center">
+    <div class="text-center">
       <div class="d-xl-flex justify-content-between align-items-center">
         <!-- text content -->
 
@@ -26,7 +26,7 @@
 
         <div class="row row-card mt-4">
           <div
-            class="col-5 col-md-6 col-lg-3"
+            class="container col-5 col-md-6 col-lg-3 d-flex justify-content-center"
             v-for="product in data"
             :key="product.id"
           >
@@ -89,7 +89,6 @@ export default {
 <style scoped>
 @media (max-width: 500px) {
   .row-card {
-    column-gap: 25px;
     row-gap: 15px;
   }
 }
