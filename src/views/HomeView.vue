@@ -8,6 +8,11 @@
       <HeroComponent class="mb-5" />
     </div>
 
+    <!-- check status -->
+    <div class="container">
+      <CheckStatus class="mb-5"></CheckStatus>
+    </div>
+
     <!-- footer -->
     <FooterComponent />
   </div>
@@ -17,13 +22,15 @@
 // @ is an alias to /src
 import navbar from '@/components/navbar.vue'
 import FooterComponent from '@/components/footer.vue'
+import CheckStatus from '@/components/home/CheckStatusComponent.vue'
 import HeroComponent from '@/components/home/HeroComponent.vue'
 export default {
   name: 'HomeView',
   components: {
     navbar,
     FooterComponent,
-    HeroComponent
+    HeroComponent,
+    CheckStatus
   }
 }
 </script>
