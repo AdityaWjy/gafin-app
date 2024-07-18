@@ -12,7 +12,14 @@
   </div>
 </template>
 
-<script></script>
+<script>
+// showToast() {
+//       this.$toast.warning('Warning toast', {
+//         timeout: 2000,
+//         toastClassName: 'toast-warning'
+//       })
+//     }
+</script>
 
 <style>
 /* import font */

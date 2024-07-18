@@ -13,6 +13,11 @@
       <CheckStatus class="mb-5"></CheckStatus>
     </div>
 
+    <!-- popular service -->
+    <div class="container">
+      <PopularService class="mb-5" />
+    </div>
+
     <!-- footer -->
     <FooterComponent />
   </div>
@@ -24,13 +29,15 @@ import navbar from '@/components/navbar.vue'
 import FooterComponent from '@/components/footer.vue'
 import CheckStatus from '@/components/home/CheckStatusComponent.vue'
 import HeroComponent from '@/components/home/HeroComponent.vue'
+import PopularService from '@/components/home/PopularServiceComponent.vue'
 export default {
   name: 'HomeView',
   components: {
     navbar,
     FooterComponent,
     HeroComponent,
-    CheckStatus
+    CheckStatus,
+    PopularService
   }
 }
 </script>
