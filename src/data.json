@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nama": "Deep Cleaning",
+    "gambar": "deepclean.png"
+  },
+  {
+    "id": 2,
+    "nama": "Fast Clean",
+    "gambar": "deepclean.png"
+  },
+  {
+    "id": 3,
+    "nama": "Tas",
+    "gambar": "deepclean.png"
+  },
+  {
+    "id": 4,
+    "nama": "Sandal",
+    "gambar": "deepclean.png"
+  }
+]

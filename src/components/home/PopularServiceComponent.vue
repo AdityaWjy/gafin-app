@@ -27,7 +27,7 @@
         <div class="row row-card mt-4">
           <div
             class="col-5 col-md-6 col-lg-3"
-            v-for="product in products"
+            v-for="product in data"
             :key="product.id"
           >
             <CardProduct :product="product" />
@@ -39,14 +39,18 @@
 </template>
 
 <script>
+// using data json, just for create UI
+
 import axios from 'axios'
+import data from '@/data.json'
 import CardProduct from '@/components/CardProduct.vue'
 import { getBestProducts } from '@/services/api.js'
 
 export default {
   data() {
     return {
-      products: []
+      products: [],
+      data
     }
   },
   components: {
