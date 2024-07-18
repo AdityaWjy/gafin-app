@@ -58,6 +58,13 @@ export default {
       this.products = data
     },
 
+    welcomeAlert() {
+      this.$toast.info('Selamat datang di Gafin Lab!', {
+        timeout: 2000,
+        toastClassName: 'toast-info'
+      })
+    },
+
     async getBestProduct() {
       try {
         const response = await axios.get(getBestProducts)
@@ -70,7 +77,7 @@ export default {
   },
 
   mounted() {
-    this.getBestProduct()
+    this.getBestProduct(), this.welcomeAlert()
   }
 }
 </script>

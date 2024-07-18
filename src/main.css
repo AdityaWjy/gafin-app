@@ -62,6 +62,7 @@
   background-color: blue !important;
   color: white !important;
   font-weight: bold !important;
+  position: fixed;
 }
 
 .toast-warning {
