@@ -18,6 +18,10 @@
       <PopularService class="mb-5" />
     </div>
 
+    <div class="container">
+      <BannerContent class="mb-5" />
+    </div>
+
     <!-- footer -->
     <FooterComponent />
   </div>
@@ -30,6 +34,7 @@ import FooterComponent from '@/components/footer.vue'
 import CheckStatus from '@/components/home/CheckStatusComponent.vue'
 import HeroComponent from '@/components/home/HeroComponent.vue'
 import PopularService from '@/components/home/PopularServiceComponent.vue'
+import BannerContent from '@/components/BannerContent.vue'
 export default {
   name: 'HomeView',
   components: {
@@ -37,7 +42,8 @@ export default {
     FooterComponent,
     HeroComponent,
     CheckStatus,
-    PopularService
+    PopularService,
+    BannerContent
   }
 }
 </script>

@@ -85,11 +85,3 @@ export default {
   }
 }
 </script>
-
-<style scoped>
-@media (max-width: 500px) {
-  .row-card {
-    row-gap: 15px;
-  }
-}
-</style>
