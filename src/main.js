@@ -17,5 +17,11 @@ Vue.config.productionTip = false
 
 new Vue({
   router,
+  beforeCreate() {
+    this.$toast.info('Selamat datang di Gafin Lab!', {
+      timeout: 5000,
+      toastClassName: 'toast-info'
+    })
+  },
   render: (h) => h(App)
 }).$mount('#app')

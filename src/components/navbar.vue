@@ -40,7 +40,7 @@
 
                 <li class="nav-item">
                   <router-link
-                    to="/service"
+                    to="/services"
                     class="nav-link fw-medium"
                     aria-current="page"
                     >Service</router-link

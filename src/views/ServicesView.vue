@@ -1,6 +1,6 @@
 <template>
-  <div class="about">
-    <!-- navbar start -->
+  <div class="services">
+    <!-- navbar  -->
     <navbar />
   </div>
 </template>
@@ -10,7 +10,7 @@
 import navbar from '@/components/navbar.vue'
 
 export default {
-  name: 'HomeView',
+  name: 'ServicesView',
   components: {
     navbar
   }

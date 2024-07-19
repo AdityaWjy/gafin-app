@@ -35,6 +35,13 @@
   transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
 
+.btn-explore:hover {
+  background-color: transparent;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  transition-delay: 0.1s;
+}
+
 @media (max-width: 500px) {
   .banner {
     padding-top: 50px;
